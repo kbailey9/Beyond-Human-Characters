@@ -1,7 +1,7 @@
 <div class="card mb-3">
   <div class="card-body">
     <h5 class="card-title">Description</h5>
-    <p class="card-text">{{ site.description }}</p>
+    <p class="card-text">This online exhibit is a collection of stories and folklore from various cultures around the world. It includes images, videos, text, and music. As you explore the various locations and narratives, think about the role they play in your understanding of the world. Would your world be the same if these environmental characters never played their part? Also, try to think about how connected these stories are despite their distance and relative context. Many stories exist as cautionary tales or feral gossip. They capture our imaginations and influence us. So, how have you encountered these stories, and how have they changed you? Or, if this is your first time hearing these stories, have they changed your world?</p>
     {%- assign about = site.data.config-nav | where: "stub","/about.html" | size -%}
     {% if about > 0 %}<a class="btn btn-outline-primary" href="{{ '/about.html' | relative_url }}" >Learn More &raquo;</a>{% endif %}
   </div>
