@@ -19,9 +19,12 @@ This site is generated using [CollectionBuilder-GH](https://collectionbuilding.g
 - a CSV of collection metadata
 - a folder of JPG images or PDF documents
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+ ## About the Project
+
+This collection of narratives was designed to explain relational ontologies and how all entities on Earth are connected.
+
+These stories are only a sample of the environment's role in our worldly perspectives. I encourage you to research even more narratives and see how they impact your life.
+
+The images, videos, music, and text is all inspired by academic readings about relational perspectives and use public sources and educationally avilable materials to provide examples.
