@@ -1,7 +1,7 @@
 ---
 title: The Ending
 layout: about
-permalink: /aurora.html
+permalink: /ending.html
 ---
 
 ## The Ending is just the Beginning
