@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="e_3"
+{% include feature/jumbotron.html objectid="[e_3](https://kbailey9.github.io/beyond-human-characters/item.html?id=e_3)"
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
