@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid=wt_3
+{% include feature/jumbotron.html objectid=e_3
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
@@ -21,7 +21,7 @@ This site is generated using [CollectionBuilder-GH](https://collectionbuilding.g
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
- ## About the Project
+## About the Project
 
 This collection of narratives was designed to explain relational ontologies and how all entities on Earth are connected.
 
