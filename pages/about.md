@@ -27,7 +27,7 @@ This collection of narratives was designed to explain relational ontologies and 
 
 These stories are only a sample of the environment's role in our worldly perspectives. I encourage you to research even more narratives and see how they impact your life.
 
-The images, videos, music, and text is all inspired by academic readings about relational perspectives and use public sources and educationally avilable materials to provide examples.
+The images, videos, music, and text is all inspired by academic readings about relational perspectives and use public sources and educationally available materials to provide examples.
 
 ## Academic Literature for your Consideration
 
