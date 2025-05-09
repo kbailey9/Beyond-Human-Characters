@@ -27,7 +27,9 @@ This collection of narratives was designed to explain relational ontologies and 
 
 These stories are only a sample of the environment's role in our worldly perspectives. I encourage you to research even more narratives and see how they impact your life.
 
-The images, videos, music, and text is all inspired by academic readings about relational perspectives and use public sources and educationally available materials to provide examples.
+The images, videos, music, and text is all inspired by academic readings about relational perspectives and use public sources and educationally available materials to provide examples. But, many of the objects used in this collection are only usable in an educational setting. Please do not duplicate or replicate this project as the reproduction rights belong to various other individuals. 
+
+Disclaimer: I wanted to use resources that originated from the source communities of the different folkloric stories. But, the indigenous perspective was often never recorded. This means that much of the collections is from a western perspective. This is an overall issue in history where the native communities were often silence, and are still being silenced. In the future, I hope to collect stories from the original peoples (with their permission and consent) and use their histories and stories as the primary materials for this exhibit. Thank you for understanding. 
 
 ## Academic Literature for your Consideration
 
